@@ -1,0 +1,4 @@
+aws_region           = "us-east-1"
+project_name         = "secure-vpc-demo"
+key_pair_name        = "my-ec2-keypair"
+bastion_allowed_cidr = "203.0.113.10/32" # replace with your actual public IP/32
